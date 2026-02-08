@@ -1,0 +1,6 @@
+pandas
+docxtpl       
+python-docx  
+openpyxl
+rich
+watchdog
